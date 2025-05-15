@@ -1,25 +1,6 @@
 
-
-  
-  
-
 \#Project Structure
 
-  
-
-SolarLgaoWebApp/
-
-├── Prototype/
-
-├── solarbot/
-
-|   ├── .env
-
-|   ├── solarbot.py
-
-|   ├── solar\_function.py
-
-|   ├──  requirements.txt
 
 └── SolarWebApp/
 
