@@ -61,7 +61,7 @@ Installation:
 Clone the repository:
 
 git clone https://github.com/yourusername/SolarLgaoWebApp.git
-cd solar-energy-app
+cd SolarWebApp
 Install dependencies:
 
 npm install
