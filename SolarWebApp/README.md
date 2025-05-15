@@ -1,15 +1,7 @@
-# SolarLgaoWebApp
-
 
 Project Structure
 
-SolarLgaoWebApp/
-├── Prototype/
-├── solarbot/
-|   ├── .env
-|   ├── solarbot.py
-|   ├── solar_function.py
-|   ├──  requirements.txt
+
 └── SolarWebApp/
     ├── .env
     ├── package.json
@@ -60,7 +52,7 @@ Installation:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/SolarLgaoWebApp.git
+git clone https://github.com/yourusername/solar-energy-app.git
 cd solar-energy-app
 Install dependencies:
 
